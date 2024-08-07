@@ -14,6 +14,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
+// iris-rev4
 
 #pragma once
 
@@ -30,5 +31,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MOUSEKEY_TIME_TO_MAX    64
 #define MOUSEKEY_MAX_SPEED      6
 #define MOUSEKEY_WHEEL_DELAY 30
-#define TAPPING_TERM    150
+#define TAPPING_TERM    250
 #define QUICK_TAP_TERM 0
